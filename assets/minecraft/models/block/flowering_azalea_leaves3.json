@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/leaves3",
+  "textures": {
+    "all": "minecraft:block/flowering_azalea_leaves",
+    "side": "minecraft:block/flowering_azalea_leaves_side"
+  }
+}

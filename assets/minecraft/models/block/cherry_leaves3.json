@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/leaves3",
+  "textures": {
+    "all": "minecraft:block/cherry_leaves",
+    "side": "minecraft:block/cherry_leaves_side"
+  }
+}
